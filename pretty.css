@@ -7,6 +7,6 @@ body{
 
 section
 {
-    margin-x: 32px 16px;
+    margin: 32px 16px;
     flex-grow:1;
 }
